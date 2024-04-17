@@ -1,0 +1,75 @@
+#pollito{
+    color: blueviolet;
+    font-size: 32px;
+    background-color: #F1A5E9;
+}
+
+body{background-color: #E5CEEE;}
+
+#div1{
+    background-color: aqua;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    border: 2px solid black;
+    align-items: center;
+}
+#div2{
+    background-color: yellow;
+    display: grid;
+    gap: 10px;
+    justify-content: space-around;
+}
+#div3{
+    background-color: red;
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+}
+#div4{
+    display: flex;
+    justify-content: center;
+}
+#formulario{
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+#flex1{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around ;
+}
+#flex2{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+}
+#elemento1{
+    display: flex;
+    flex-direction: column;
+}
+#elemento2{
+    display: flex;
+    flex-direction: column;
+}
+#elemento3{
+    display: flex;
+    flex-direction: column;
+}
+#elemento4{
+    display: flex;
+    flex-direction: column;
+}
+.flex{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    padding: 10px;
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
